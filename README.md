@@ -3,14 +3,8 @@
 I am an upcoming senior pursuing a Bachelor of Science in Data Science and Applied Statistics at Purdue University, with an anticipated graudation in May 2025. 
 
 ## About Me
-<ul style="list-style-type: none; padding: 0; margin: 0">
-  <li>
-    👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization.
-  </li>
-  <li>
-    📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University.
-  </li>
-</ul>
+<p> 👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization. </p>
+<p> 📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University. </p> 
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
