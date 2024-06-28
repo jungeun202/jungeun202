@@ -13,6 +13,7 @@ My research interest is in Machine Learning, Artificial Intelligence, NLP, and L
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 <!--
 **jungeun202/jungeun202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
