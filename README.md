@@ -3,10 +3,10 @@
 I am an upcoming senior pursuing a Bachelor of Science in Data Science and Applied Statistics at Purdue University, with an anticipated graudation in May 2025. 
 
 ## About Me
-
-👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization.
-📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University.
-
+<ul> 
+  <li> 👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization. </li>
+  <li> 📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University. </li>
+</ul>
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
@@ -22,8 +22,13 @@ I am an upcoming senior pursuing a Bachelor of Science in Data Science and Appli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Contact
-<p><a href="[https://github.com/thmsgbrt](https://www.linkedin.com/in/jung-hwang-a6162320a/)" target="_blank"><img alt="Linkedin" src="[https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a> <a href="mailto:hwang227@purdue.edu" target="_blank"><img alt="Email" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-</p>
+<a href="[https://github.com/thmsgbrt](https://www.linkedin.com/in/jung-hwang-a6162320a/)" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="mailto:hwang227@purdue.edu" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <!--
 **jungeun202/jungeun202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
