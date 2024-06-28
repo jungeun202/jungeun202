@@ -1,6 +1,6 @@
 # Hi 👋 I am Jung. 
 
-I am an upcoming junior pursuing a Bachelor of Science in Data Science and Applied Statistics at Purdue University, with an anticipated graudation in May 2025. 
+I am an upcoming senior pursuing a Bachelor of Science in Data Science and Applied Statistics at Purdue University, with an anticipated graudation in May 2025. 
 
 ## About Me
 
@@ -22,8 +22,8 @@ I am an upcoming junior pursuing a Bachelor of Science in Data Science and Appli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Contact
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<p><a href="[https://github.com/thmsgbrt](https://www.linkedin.com/in/jung-hwang-a6162320a/)" target="_blank"><img alt="Linkedin" src="[https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a> <a href="mailto:hwang227@purdue.edu" target="_blank"><img alt="Email" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+</p>
 <!--
 **jungeun202/jungeun202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
