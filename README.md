@@ -4,8 +4,8 @@ I am an upcoming senior pursuing a Bachelor of Science in Data Science and Appli
 
 ## About Me
 <ul> 
-  <li> 👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization. </li>
-  <li> 📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University. </li>
+  👩‍💻 I have working experience as a Data Analyst intern at Purdue DIAL Venture, utilizing Tableau, Python, and MySQL for data collection, management, and visualization.
+  📚 My research interests are in Machine Learning, Artificial Intelligence, NLP, and Large Language Models. I have gained experience as an undergraduate researcher at the Digital Agriculture Discovery (DAD) Lab at Purdue University by implementing an interactive AI chatbot for a weed control system and working with transformer models at the LRNING Lab at Hanyang University.
 </ul>
 
 ## Skills
@@ -22,7 +22,7 @@ I am an upcoming senior pursuing a Bachelor of Science in Data Science and Appli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Contact
-<a href="[https://github.com/thmsgbrt](https://www.linkedin.com/in/jung-hwang-a6162320a/)" target="_blank">
+<a href="https://www.linkedin.com/in/jung-hwang-a6162320a/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a href="mailto:hwang227@purdue.edu" target="_blank">
